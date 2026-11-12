@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚖️ Intelligent Legal Document Analysis & Contract Summarization
 
 A full-stack intelligent legal document analysis system combining **NLP**, **AI/ML**, **Generative AI**, **Blockchain**, and **Cloud Computing**.
@@ -137,3 +138,6 @@ This project demonstrates the integration of:
 3. **Generative AI** — RAG-based Q&A, summarization, clause explanation
 4. **Blockchain** — SHA-256 document hashing + Ethereum smart contract verification
 5. **Cloud Computing** — Containerized deployment on AWS/GCP/Azure
+=======
+# legal-document-analysis-and-summarization
+>>>>>>> 5350e9b2cb2302287a3ad4f3b12f1b583f4d9aa0
