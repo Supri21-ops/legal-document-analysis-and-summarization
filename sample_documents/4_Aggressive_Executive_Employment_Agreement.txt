@@ -1,0 +1,42 @@
+EXECUTIVE EMPLOYMENT AND RESTRICTIVE COVENANTS AGREEMENT
+
+This Executive Employment Agreement ("Agreement") is dated as of August 10, 2026, by and between:
+
+TITAN AEROSPACE HOLDINGS LLC, a Texas corporation with headquarters at 2100 Space Parkway, Houston, TX 77058 ("Employer" or "Company"),
+and
+DAVID STERLING, an individual residing at 4402 Sunset Boulevard, Austin, TX 78701 ("Executive").
+
+1. POSITION AND DUTIES
+Executive is employed as Chief Technology Officer (CTO). Executive agrees to devote 100% of full working time, attention, skill, and best efforts exclusively to the Company's business. Executive shall not engage in any outside employment, advisory work, or personal consulting, paid or unpaid.
+
+2. COMPENSATION AND BASE SALARY
+Company shall pay Executive an initial annual base salary of $280,000, payable semi-monthly. Any bonus shall be granted in the sole and absolute discretion of the Board of Directors. Executive acknowledges that bonuses are non-vested and forfeitable upon departure for any reason.
+
+3. AT-WILL EMPLOYMENT AND TERMINATION WITHOUT SEVERANCE
+Executive's employment is strictly at-will. Company may terminate Executive's employment at any time, for any reason or no reason, immediately upon written notice, without notice period and without payment of any severance, bonus, or continuation of benefits. If Executive resigns, Executive must provide ninety (90) days advance written notice.
+
+4. COMPREHENSIVE INVENTIONS ASSIGNMENT
+Executive agrees that all inventions, discoveries, software code, algorithms, patents, trade secrets, and copyrightable works created, conceived, or reduced to practice by Executive during employment—whether on Company premises, using Company equipment, or created during personal hours at home, whether related to Company business or not—shall automatically belong exclusively to the Company. Executive hereby assigns all rights, title, and worldwide interests to Company.
+
+5. NON-COMPETITION RESTRICTION
+During employment and for a period of twenty-four (24) months following termination of employment for any reason, Executive shall not directly or indirectly own, manage, operate, control, advise, or be employed by any enterprise that engages in aerospace engineering, defense software, or autonomous systems within North America.
+
+6. NON-SOLICITATION AND $100,000 LIQUIDATED DAMAGES
+Executive shall not, during employment and for thirty-six (36) months thereafter, solicit, induce, or encourage any employee, contractor, customer, or vendor of the Company to leave, terminate, or reduce their business relationship with the Company. Executive agrees that any violation of this provision shall cause severe harm and Executive shall immediately pay Company liquidated damages of $100,000 per violation, plus all attorney fees incurred by Company in enforcement.
+
+7. INDEMNITY BY EXECUTIVE
+Executive agrees to indemnify, defend, and hold harmless Company from any and all legal costs, claims, or regulatory penalties resulting from Executive's pre-existing employment obligations or alleged breach of any third-party confidentiality agreements.
+
+8. GOVERNING LAW AND MANDATORY BINDING ARBITRATION
+This Agreement shall be governed by the laws of the State of Texas. Any controversy or dispute shall be settled by mandatory, final, and confidential arbitration conducted in Houston, Texas under the rules of JAMS. EXECUTIVE EXPRESSLY WAIVES ANY CONSTITUTIONAL OR STATUTORY RIGHT TO A TRIAL BY JURY.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+TITAN AEROSPACE HOLDINGS LLC
+By: ____________________________________
+Name: Marcus Vance
+Title: Chief Executive Officer
+
+EXECUTIVE
+By: ____________________________________
+David Sterling

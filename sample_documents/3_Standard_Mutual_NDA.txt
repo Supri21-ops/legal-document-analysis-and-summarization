@@ -1,0 +1,58 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is made and entered into as of September 20, 2026 ("Effective Date"), by and between:
+
+NEXUS DYNAMICS CORP, a New York corporation with offices at 750 Lexington Avenue, New York, NY 10022 ("Nexus"),
+and
+AEGIS SOFTWARE SOLUTIONS LTD, a company organized under the laws of the United Kingdom with registered offices at 10 Finsbury Square, London EC2A 1AF, UK ("Aegis").
+
+Each of Nexus and Aegis may be referred to individually as a "Party" or collectively as the "Parties."
+
+1. PURPOSE
+The Parties wish to explore potential strategic collaboration and software development partnership opportunities (the "Purpose"). In connection with the Purpose, either Party ("Discloser") may disclose confidential and proprietary information to the other Party ("Recipient").
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means all non-public information disclosed by Discloser to Recipient, whether orally, electronically, visually, or in tangible form, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and circumstances of disclosure. Confidential Information includes source code, software architectures, business plans, financial projections, customer data, and trade secrets.
+
+3. EXCLUSIONS FROM CONFIDENTIALITY
+Confidential Information does not include information that:
+(a) is or becomes publicly known through no breach of this Agreement by Recipient;
+(b) was already known to Recipient without confidentiality restriction prior to disclosure;
+(c) is independently developed by Recipient without reference to or reliance upon Discloser's information; or
+(d) is rightfully received from a third party without duty of confidentiality.
+
+4. OBLIGATIONS OF RECIPIENT
+Recipient agrees:
+(a) to maintain Confidential Information in strict confidence and use at least reasonable care;
+(b) to use Confidential Information solely for the Purpose;
+(c) to disclose Confidential Information only to employees, officers, and legal advisors who have a genuine need to know and who are bound by confidentiality obligations at least as restrictive as those herein.
+
+5. PERMITTED COMPELLED DISCLOSURE
+Recipient may disclose Confidential Information to the extent required by applicable law, regulation, subpoena, or valid order of a court of competent jurisdiction, provided Recipient gives prompt written notice to Discloser (where legally permissible) to enable Discloser to seek a protective order.
+
+6. RETURN OR DESTRUCTION OF MATERIALS
+Upon written request of Discloser or upon termination of discussions, Recipient shall promptly return or certify the secure destruction of all tangible and electronic copies of Discloser's Confidential Information within thirty (30) days, except for automated archival backup copies maintained in the ordinary course of business.
+
+7. TERM AND TERMINATION
+This Agreement shall remain in effect for a period of one (1) year from the Effective Date. The confidentiality and non-use obligations with respect to all disclosed Confidential Information shall survive for three (3) years following the date of disclosure.
+
+8. NO LICENSE OR WARRANTY
+Nothing in this Agreement grants either Party any license, title, patent, copyright, or trademark right under any intellectual property of Discloser. All Confidential Information is provided strictly "AS IS" without warranty of any kind.
+
+9. INJUNCTIVE RELIEF
+The Parties acknowledge that unauthorized disclosure of Confidential Information may cause irreparable harm for which monetary damages alone would be inadequate. Accordingly, Discloser shall be entitled to seek equitable injunctive relief in addition to any other remedies available at law.
+
+10. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law rules. The state and federal courts located in New York County, New York shall have exclusive jurisdiction over all disputes arising hereunder.
+
+IN WITNESS WHEREOF, the Parties have executed this Mutual Non-Disclosure Agreement as of the Effective Date.
+
+NEXUS DYNAMICS CORP
+By: ____________________________________
+Name: Jordan Miller
+Title: VP of Corporate Development
+
+AEGIS SOFTWARE SOLUTIONS LTD
+By: ____________________________________
+Name: Claire Davenport
+Title: Director of Legal Affairs

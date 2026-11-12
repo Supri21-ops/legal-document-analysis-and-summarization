@@ -1,0 +1,53 @@
+MASTER SERVICES AGREEMENT (AMENDED VERSION 2.0)
+
+This Master Services Agreement ("Agreement") is amended and restated as of November 01, 2026 ("Effective Date"), by and between:
+
+APEX GLOBAL TECHNOLOGIES INC., a Delaware corporation with its principal place of business at 100 Innovation Way, Suite 400, Wilmington, DE 19801 ("Client" or "Company"),
+and
+VANGUARD CYBERNETICS LLC, a California limited liability company with its principal place of business at 550 Mission Street, San Francisco, CA 94105 ("Contractor" or "Service Provider").
+
+RECITALS
+WHEREAS, Client and Contractor desire to update and balance the terms governing cloud infrastructure, software engineering, and artificial intelligence consulting services;
+NOW, THEREFORE, the parties agree as follows:
+
+1. SCOPE OF SERVICES AND DELIVERABLE ACCEPTANCE
+Contractor shall provide the consulting and engineering services described in mutually agreed Statements of Work ("SOW"). Deliverables shall be subject to Client review within ten (10) business days. Acceptance shall not be unreasonably withheld, conditioned, or delayed. Any modifications to SOWs shall require mutual written agreement by both authorized representatives.
+
+2. COMPENSATION AND PAYMENT TERMS
+Client shall pay Contractor fees specified in each SOW. Undisputed invoices shall be payable within thirty (30) days of receipt (Net 30). In the event of a good-faith dispute regarding an invoice, Client shall pay the undisputed portion and the parties shall cooperate in good faith to resolve the disputed amount within fifteen (15) days.
+
+3. TERM AND MUTUAL RENEWAL
+The term of this Agreement shall be twelve (12) months from the Effective Date. This Agreement may be renewed for successive one (1) year terms upon mutual written agreement of both parties at least thirty (30) days prior to term expiration. Neither party shall be bound by automatic renewal without affirmative written consent.
+
+4. MUTUAL TERMINATION AND CURE PERIOD
+Either party may terminate this Agreement or any SOW for convenience upon sixty (60) days prior written notice to the other party. In the event of a material breach, the non-breaching party may terminate this Agreement upon thirty (30) days written notice, provided the breaching party fails to cure such breach within the thirty (30) day cure period. Upon termination, Client shall pay for all services satisfactorily rendered up to the date of termination.
+
+5. MUTUAL INDEMNIFICATION
+Each party ("Indemnifying Party") agrees to defend, indemnify, and hold harmless the other party ("Indemnified Party") from and against third-party claims arising out of gross negligence, willful misconduct, or proven infringement of valid registered intellectual property rights, provided the Indemnified Party gives prompt written notice and reasonable cooperation.
+
+6. MUTUAL LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES. EACH PARTY'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL BE MUTUALLY CAPPED AT THE TOTAL FEES PAID OR PAYABLE BY CLIENT TO CONTRACTOR IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM, NOT TO EXCEED $500,000.
+
+7. INTELLECTUAL PROPERTY OWNERSHIP
+Client shall own all final bespoke deliverables paid for under this Agreement. Contractor retains all ownership, title, and interest in its pre-existing materials, background intellectual property, reusable software libraries, algorithms, and general know-how. Contractor grants Client a perpetual, royalty-free, non-exclusive license to use background IP incorporated into deliverables.
+
+8. REASONABLE NON-SOLICITATION (NO NON-COMPETE)
+Neither party shall actively solicit for employment the direct employees or contractors of the other party during the term and for twelve (12) months thereafter. The parties explicitly agree that no non-compete covenant shall apply, and Contractor remains free to provide software and technology consulting services to any third-party clients.
+
+9. MUTUAL CONFIDENTIALITY
+Each party agrees to safeguard the confidential information of the other party using the same degree of care it uses for its own confidential data, but not less than reasonable care. Confidentiality obligations shall endure for a period of three (3) years following disclosure. Exceptions include publicly known information or disclosures required by applicable law or court order.
+
+10. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement shall be governed by the laws of the State of Delaware. Any dispute arising under this Agreement shall first be submitted to good-faith executive negotiation. If unresolved after thirty (30) days, disputes shall be settled by binding confidential commercial arbitration administered by the American Arbitration Association (AAA) in Wilmington, Delaware.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amended Master Services Agreement.
+
+APEX GLOBAL TECHNOLOGIES INC.
+By: ____________________________________
+Name: Arthur Vance
+Title: Chief Operating Officer
+
+VANGUARD CYBERNETICS LLC
+By: ____________________________________
+Name: Elena Rostova
+Title: Managing Principal

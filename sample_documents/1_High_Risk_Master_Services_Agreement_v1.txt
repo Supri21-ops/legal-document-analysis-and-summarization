@@ -1,0 +1,54 @@
+MASTER SERVICES AGREEMENT (VERSION 1.0)
+
+This Master Services Agreement ("Agreement") is entered into as of October 15, 2026 ("Effective Date"), by and between:
+
+APEX GLOBAL TECHNOLOGIES INC., a Delaware corporation with its principal place of business at 100 Innovation Way, Suite 400, Wilmington, DE 19801 ("Client" or "Company"),
+and
+VANGUARD CYBERNETICS LLC, a California limited liability company with its principal place of business at 550 Mission Street, San Francisco, CA 94105 ("Contractor" or "Service Provider").
+
+RECITALS
+WHEREAS, Client desires to retain Contractor to perform certain cloud infrastructure, software engineering, and artificial intelligence consulting services; and
+WHEREAS, Contractor possesses the requisite expertise, personnel, and facilities to perform such services;
+NOW, THEREFORE, in consideration of the mutual covenants herein contained, the parties agree as follows:
+
+1. SCOPE OF SERVICES
+Contractor shall provide the consulting, engineering, and architectural services described in Statements of Work ("SOW") executed from time to time. Contractor agrees that all deliverables shall meet Client's satisfaction in Client's sole discretion. Client reserves the right to modify deliverables and timelines without contractor consent.
+
+2. COMPENSATION AND PAYMENT TERMS
+Client shall pay Contractor fees specified in each SOW. Contractor shall submit monthly invoices. Invoices shall be payable within ninety (90) days of receipt. Client reserves the right to withhold any disputed amounts or impose fee reductions without penalty if Client deems deliverables unsatisfactory in its sole determination.
+
+3. TERM AND AUTOMATIC PERPETUAL RENEWAL
+The initial term of this Agreement shall be twelve (12) months from the Effective Date. This Agreement shall automatically renew for successive consecutive terms of three (3) years each, unless Client provides written notice of non-renewal at least one hundred eighty (180) days prior to the expiration of the then-current term. Contractor shall have no right to terminate or opt out of automatic renewal.
+
+4. TERMINATION AT WILL WITHOUT CAUSE
+Client may terminate this Agreement or any Statement of Work at any time, with or without cause, immediately upon written notice to Contractor, without penalty, cancellation fee, or further payment obligation. Conversely, Contractor shall have no right to terminate this Agreement for convenience and must complete all pending projects regardless of circumstances.
+
+5. UNLIMITED INDEMNIFICATION BY CONTRACTOR
+Contractor shall defend, indemnify, and hold harmless Client, its parent companies, subsidiaries, affiliates, directors, officers, employees, and agents from and against any and all claims, liabilities, losses, damages, expenses, fines, and legal costs (including attorney fees) of any kind arising out of or related to Contractor's performance, deliverables, alleged intellectual property infringement, negligence, or breach of this Agreement, whether direct, indirect, incidental, or consequential.
+
+6. ABSOLUTE EXCLUSION AND UNCAPPED LIABILITY
+IN NO EVENT SHALL CLIENT BE LIABLE TO CONTRACTOR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES. CLIENT'S TOTAL AGGREGATE LIABILITY ARISING OUT OF THIS AGREEMENT SHALL BE STRICTLY LIMITED TO ONE HUNDRED DOLLARS ($100.00). CONTRACTOR'S LIABILITY UNDER THIS AGREEMENT SHALL BE UNLIMITED IN SCOPE AND AMOUNT, AND NO CAP OR LIMITATION SHALL APPLY TO CONTRACTOR.
+
+7. INTELLECTUAL PROPERTY AND MORAL RIGHTS WAIVER
+Contractor agrees that all deliverables, inventions, code, designs, documentation, and ideas created or developed by Contractor shall be considered "work made for hire" and shall become the exclusive property of Client immediately upon creation. Contractor hereby assigns all worldwide intellectual property rights and irrevocably waives all moral rights, rights of attribution, and paternity.
+
+8. RESTRICTIVE COVENANTS AND WORLDWIDE NON-COMPETE
+During the term of this Agreement and for a period of five (5) years following termination for any reason, Contractor shall not directly or indirectly engage in, consult for, advise, invest in, or perform services for any entity worldwide that competes with Client or offers cloud computing, artificial intelligence, or legal technology solutions. Contractor agrees that breach of this section shall trigger immediate liquidated damages of $250,000 without requirement of proof of actual damages.
+
+9. CONFIDENTIALITY AND NON-DISCLOSURE
+Contractor agrees to hold in strict confidence all technical, business, financial, and proprietary information disclosed by Client. Contractor shall not disclose Confidential Information to any third party for ten (10) years following termination. Client shall have no reciprocal obligation regarding Contractor confidential materials.
+
+10. GOVERNING LAW AND WAIVER OF JURY TRIAL
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflict of laws principles. The parties agree that any dispute shall be resolved exclusively in the state or federal courts located in New Castle County, Delaware. CONTRACTOR HEREBY IRREVOCABLY WAIVES ALL RIGHTS TO A TRIAL BY JURY AND WAIVES ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Master Services Agreement as of the date first above written.
+
+APEX GLOBAL TECHNOLOGIES INC.
+By: ____________________________________
+Name: Arthur Vance
+Title: Chief Operating Officer
+
+VANGUARD CYBERNETICS LLC
+By: ____________________________________
+Name: Elena Rostova
+Title: Managing Principal

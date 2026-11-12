@@ -1,0 +1,55 @@
+STANDARD MUTUAL PROFESSIONAL SERVICES AGREEMENT
+
+This Mutual Professional Services Agreement (the "Agreement") is entered into and made effective as of March 1, 2026 (the "Effective Date"), by and between:
+
+Client: Horizon Tech Solutions Inc., a Delaware corporation with its principal office at 400 Corporate Center Drive, Suite 250, San Jose, CA 95110 ("Client"), and
+
+Provider: Beacon Consulting Services LLC, a California limited liability company with its principal office at 750 Innovation Boulevard, Irvine, CA 92618 ("Provider").
+
+Client and Provider may collectively be referred to as the "Parties" or individually as a "Party."
+
+Both parties agree to collaborate in good faith under commercially reasonable terms as set forth below:
+
+1. SCOPE OF SERVICES AND OBLIGATIONS
+Both parties agree to exercise commercially reasonable efforts to fulfill their respective project duties. Provider shall deliver technical consulting services as mutually agreed upon in writing in Statement of Work #1. Client agrees to provide timely system access and project feedback in good faith within a reasonable timeframe.
+
+2. PAYMENT AND COMPENSATION
+Client agrees to pay Provider a total contract sum of $50,000 USD for the completed deliverables. Payments shall be made in two equal installments of $25,000 USD within 30 days notice of receiving an undisputed invoice. Both parties agree that reasonable out-of-pocket project expenses will be reimbursed upon mutual agreement in writing.
+
+3. TERM AND MUTUAL TERMINATION
+The initial term of this Agreement shall commence on March 1, 2026 and continue for twelve (12) months until February 28, 2027. Either party may terminate this agreement by providing 30 days notice in writing to the other party upon mutual agreement. In the event of termination, Client shall pay for all satisfactory services rendered up to the effective termination date.
+
+4. CONFIDENTIALITY AND NON-DISCLOSURE
+Each party agrees to maintain strict confidentiality of all proprietary and technical information disclosed during the collaboration. Both parties agree to use commercially reasonable efforts to safeguard all shared materials in good faith, and such confidentiality obligations shall survive for three (3) years.
+
+5. INTELLECTUAL PROPERTY RIGHTS
+Both parties agree that pre-existing intellectual property shall remain the exclusive property of each respective owner. Any newly developed customized deliverables shall be owned by Client upon full payment, with Provider retaining a perpetual, non-exclusive license for internal development frameworks under mutual agreement.
+
+6. WARRANTIES AND PROFESSIONAL STANDARDS
+Provider warrants that all professional services shall be performed in good faith, in a professional and workmanlike manner, and in accordance with commercially reasonable industry standards.
+
+7. LIMITATION OF LIABILITY
+Both parties agree that neither Party shall be liable for indirect, incidental, or consequential damages. Each Party's total aggregate liability arising out of or related to this Agreement shall be limited to the total fees paid under this Agreement, providing mutual protection to both organizations.
+
+8. FORCE MAJEURE
+Neither party shall be liable for delays or failure to perform caused by unforeseen circumstances beyond commercially reasonable control, including natural disasters, acts of government, strikes, or widespread utility failures.
+
+9. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement shall be governed by and construed in accordance with the laws of the State of California. Any dispute arising under this Agreement shall first be submitted to good faith negotiations and mutual agreement before pursuing formal mediation.
+
+10. AMENDMENTS AND ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the Parties. This Agreement may only be amended upon mutual agreement in writing signed by authorized representatives of both parties.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+HORIZON TECH SOLUTIONS INC.
+By: ___________________________
+Name: Robert Sterling
+Title: Vice President of Operations
+Date: March 1, 2026
+
+BEACON CONSULTING SERVICES LLC
+By: ___________________________
+Name: Sarah Jenkins
+Title: Managing Partner
+Date: March 1, 2026

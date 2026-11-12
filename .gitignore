@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Database
+*.db
+*.sqlite3
+
+# Uploads
+backend/uploads/
+
+# AI/ML models (large files)
+*.bin
+*.pt
+*.pth
+chroma_db/
+*.index
+
+# Node
+node_modules/
+dist/
+.angular/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Deployment
+*.json.bak
+deployment.json
+contracts/deployment.json
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
